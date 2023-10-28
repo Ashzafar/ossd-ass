@@ -1,3 +1,5 @@
+# F2020266454
+
 def check_palindrome(word):
     start = 0
     end = len(word) - 1

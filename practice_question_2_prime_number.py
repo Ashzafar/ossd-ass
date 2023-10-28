@@ -1,4 +1,4 @@
-# f2020266454
+# F2020266454
 def is_prime(number):
     divisor = number - 1
     flag=True
