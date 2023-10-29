@@ -18,3 +18,5 @@ Practice Questions:
 5. Palindrome Checker
 6. Reverse a String
 9. Count Vowels and Consonants
+
+Question 2: Shopping Cart
